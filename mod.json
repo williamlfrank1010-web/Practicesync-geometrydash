@@ -1,0 +1,15 @@
+{
+	"geode": "6.0.0",
+	"gd": {
+		"win": "2.2091",
+		"android": "2.2091",
+		"mac": "2.2091",
+		"ios": "2.2091"
+	},
+	"version": "v1.0.0",
+	"id": "yourname.practice-music-sync",
+	"name": "Practice Music Sync Unlocker",
+	"developer": "Wellerd15",
+	"description": "Unlocks Practice Music Sync so practice mode plays the level's real song instead of the practice track.",
+	"tags": ["gameplay", "utility"]
+}
